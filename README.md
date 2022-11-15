@@ -10,4 +10,4 @@
 
 ### 📫 How to reach me:
   - Website   : <https://nolanwinsman.com>
-  - LinkedIn : <https://https://www.linkedin.com/in/nolan-winsman-72540419b/.com>
+  - LinkedIn : [Nolan Winsman](https://www.linkedin.com/in/nolan-winsman-72540419b/)
