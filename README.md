@@ -3,12 +3,12 @@
 </a></p>
 
 <p align = "center">
-	<img src="https://wakatime.com/share/@nolanwinsman/ef76f73b-ca77-4db0-8cee-5433ad0c15d3.svg" height="350"/>
+	<img src="https://wakatime.com/share/@nolanwinsman/0f2483f5-1b52-45f6-b891-8de2f3b0ff2e.svg" height="350"/>
 </p>
 
 
 <p align = "center">
-	<img src="https://wakatime.com/share/@nolanwinsman/428b8f62-ed16-4362-a6b9-dfa7e125ee90.svg" height="350"/>
+	<img src="https://wakatime.com/share/@nolanwinsman/25e8b713-fd07-450d-953b-ea691391556a.svg" height="350"/>
 </p>
 
 [![wakatime](https://wakatime.com/badge/user/c1e9acdf-c5d7-4b21-8793-88704324942d.svg)](https://wakatime.com/@c1e9acdf-c5d7-4b21-8793-88704324942d)
