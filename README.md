@@ -2,6 +2,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nolanwinsman&show_icons=true&theme=tokyonight" />
 </a></p>
 
+<p align = "center">
+	<img src="https://wakatime.com/share/@nolanwinsman/f7b589a9-c191-4d7a-bbca-9e008564b0af.svg" height="400"/>
+</p>
+
+
 [![wakatime](https://wakatime.com/badge/user/c1e9acdf-c5d7-4b21-8793-88704324942d.svg)](https://wakatime.com/@c1e9acdf-c5d7-4b21-8793-88704324942d)
 
 ### 👷 Check out what I'm currently working on
