@@ -4,11 +4,13 @@
 
 [![wakatime](https://wakatime.com/badge/user/c1e9acdf-c5d7-4b21-8793-88704324942d.svg)](https://wakatime.com/@c1e9acdf-c5d7-4b21-8793-88704324942d)
 
+[comment]: <> (Background Color #2b213a)
+[comment]: <> (Foreground Color #e5289e)
 <p align="center"><a href="https://wakatime.com/@nolanwinsman">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@nolanwinsman/0f2483f5-1b52-45f6-b891-8de2f3b0ff2e.svg" />
+  <img align="center" width="400" height="400" src="https://wakatime.com/share/@nolanwinsman/0f2483f5-1b52-45f6-b891-8de2f3b0ff2e.svg" />
 </a>
 <a href="https://wakatime.com/@nolanwinsman">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@nolanwinsman/25e8b713-fd07-450d-953b-ea691391556a.svg" />
+  <img align="center" width="400" height="400" src="https://wakatime.com/share/@nolanwinsman/25e8b713-fd07-450d-953b-ea691391556a.svg" />
 </a></p>
 
 
