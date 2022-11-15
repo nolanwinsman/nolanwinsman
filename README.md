@@ -8,8 +8,9 @@
   <img align="center" width="400" height="300" src="https://wakatime.com/share/@nolanwinsman/0f2483f5-1b52-45f6-b891-8de2f3b0ff2e.svg" />
 </a>
 <a href="https://wakatime.com/@nolanwinsman">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@nolanwinsman/0f2483f5-1b52-45f6-b891-8de2f3b0ff2e.svg" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@nolanwinsman/25e8b713-fd07-450d-953b-ea691391556a.svg" />
 </a></p>
+
 
 
 ### 👷 Check out what I'm currently working on
