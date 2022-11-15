@@ -9,8 +9,5 @@
 ### 🌱 My latest projects
 
 ### 📫 How to reach me:
-  - Youtube   : <https://youtube.com/c/ChrisTitusTech>
-  - Twitch    : <https://twitch.tv/christitustech>
-  - Twitter   : <https://twitter.com/christitustech>
-  - Website   : <https://christitus.com>
-  - Web Store : <https://cttstore.com>
+  - Website   : <https://nolanwinsman.com>
+  - LinkedIn : <https://https://www.linkedin.com/in/nolan-winsman-72540419b/.com>
