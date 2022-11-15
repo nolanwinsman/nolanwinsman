@@ -20,5 +20,6 @@
 - [ArchNolan](https://github.com/nolanwinsman/ArchNolan) - Shell script to configure a fresh install of Manjaro Linux to my exact specifications
 
 ### 📫 How to reach me:
+  - Email     : [nolanwinsman@gmail.com](nolanwinsman@gmail.com)
   - Website   : <https://nolanwinsman.com>
-  - LinkedIn : [Nolan Winsman](https://www.linkedin.com/in/nolan-winsman-72540419b/)
+  - LinkedIn  : [Nolan Winsman](https://www.linkedin.com/in/nolan-winsman-72540419b/)
