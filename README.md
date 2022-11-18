@@ -3,6 +3,7 @@
 </a></p>
 
 [![wakatime](https://wakatime.com/badge/user/c1e9acdf-c5d7-4b21-8793-88704324942d.svg)](https://wakatime.com/@c1e9acdf-c5d7-4b21-8793-88704324942d)
+![](https://komarev.com/ghpvc/?username=nolanwinsman)
 
 [comment]: <> (Background Color #2b213a)
 [comment]: <> (Foreground Color #e5289e)
