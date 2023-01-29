@@ -26,3 +26,7 @@
   - Email     : [nolanwinsman@gmail.com](nolanwinsman@gmail.com)
   - Website   : <https://nolanwinsman.com>
   - LinkedIn  : [Nolan Winsman](https://www.linkedin.com/in/nolan-winsman-72540419b/)
+
+### Planned Projects
+- Automated Texting Android App
+- DnD Character Sheet Website
