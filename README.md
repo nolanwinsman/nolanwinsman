@@ -17,10 +17,13 @@
 
 
 ### 👷 Check out what I'm currently working on
-- [100-Programming-Languages](https://github.com/nolanwinsman/100-Programming-Languages) - A repo where I am working on having 100 small projects each in a unique programming language
 - [bulk_renamer](https://github.com/nolanwinsman/bulk_renamer) - A tool designed to rename many files as fast as possible using only the CLI
 - [qbittorrent-automation](https://github.com/nolanwinsman/qbittorrent-automation) - A tool to automate many of the tasks in the Qbittorrent WEB UI
+- [Roll20AverageRolls](https://github.com/nolanwinsman/Roll20AverageRolls) - Script to calculate average dice rolls per character in the game Dungeons and Dragons on [Roll20](https://roll20.net/welcome)
 - [ArchNolan](https://github.com/nolanwinsman/ArchNolan) - Shell script to configure a fresh install of Manjaro Linux to my exact specifications
+- [Kotlin SMS API App](https://github.com/nolanwinsman/KotlinSMSAPIApp) - script to automate sending Android texts
+- [Undergrad Job Hunt Handbook](https://github.com/nolanwinsman/UndergradJobHuntHandbook) - A document on everything I learned about finding a job in tech as a developer.
+- [100-Programming-Languages](https://github.com/nolanwinsman/100-Programming-Languages) - A repo where I am working on having 100 small projects each in a unique programming language
 
 ### 📫 How to reach me:
   - Email     : [nolanwinsman@gmail.com](nolanwinsman@gmail.com)
