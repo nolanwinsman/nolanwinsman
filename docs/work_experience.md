@@ -2,36 +2,51 @@
 
 This document is meant to be a historical record of most of primarily work programming projects. Since I can't share any of that code, this will be detailed descriptions of what I built.
 
-## hOp
+# hOp
 
 June 2021 To November 2021
 
-## Visa
+# Visa
 
 June 2022 To Present.
 
 The following documentation outlines additional projects and initiatives undertaken to enhance my contributions and professional profile.
 
-### Coding Projects
+## Coding Projects
 
 These are larger scale projects I did for my team.
 
-#### UAR (User Access Review) Station 
+### UAR (User Access Review) Station 
 
-Full stack website for our team to collect attestations from managers whether said manager's employees still require access to certain software.
+The UAR Station is a critical full-stack web application designed to facilitate user access review processes within our organization. This project streamlines the collection of attestations from managers regarding the necessity of software access for their employees.
 
-- Database: `GO` script collects the list of users from the applications that need attestations and converts the users to a `3NF` Database using `PostgreSQL`
-- Backend: written in `GO` using the `Gin` framework with many restful HTTPS calls for all the backend functionality for this project. Contains endpoints for fetching the employees with particular access under a specific manager. Let's the manager's 
-attest through a `PUT` request which is then logged into the database.
-- Frontend: built using Typescript with the React framework. Gives the managers a simple table to make Yes/No for their employees if they should retain access or not. 
+#### Technical Components
+- **Database Design**
+    - Utilized GO scripts to gather user data from relevant applications and transform it into a third normal form (3NF) database structure using PostgreSQL. This database structure optimizes data integrity and reduces redundancy, ensuring efficient data management.
+- **Backend Implementation**
+    - Developed the backend using GO programming language with the Gin framework. The backend features numerous RESTful HTTPS endpoints that handle various functionalities of the application. This includes fetching employees with specific access permissions under a designated manager and facilitating the attestation process.
+    - Implemented a robust PUT request mechanism to allow managers to submit attestations, which are then securely logged into the PostgreSQL database. This ensures accurate tracking and auditability of access reviews.
+- **Frontend User Interface**
+    - Constructed the frontend using Typescript with the React framework to provide managers with an intuitive and user-friendly interface. The frontend presents a simple yet effective table interface where managers can quickly make decisions (Yes/No) regarding access for their employees. Screenshot Below.
 
-#### SCL Parser
+#### Additional Details
+
+- **Integration and Workflow**
+    - Orchestrated seamless integration between the frontend and backend components to create a cohesive user experience. This involved managing API calls, data retrieval, and real-time updates to reflect manager attestations accurately.
+- **Security and Compliance**
+    - Implemented robust security measures, including authentication and authorization protocols, to safeguard sensitive user data and ensure compliance with organizational security policies and regulations.
+
+#### Impact and Results
+
+The UAR Station significantly improved the efficiency and transparency of our user access review processes. By automating and centralizing attestation collection, it reduced manual effort and enhanced data accuracy. Moreover, the project demonstrated my proficiency in full-stack development, database management, and scalable web application architecture.
+
+### SCL Parser
 
 Created a `GO` script to parse **2,000,000+** lines of SCL data to compare differences between environments. Differences are then output into a simple `.html` file for easy visualization.
 
 For instance if Envrionment `Dev01` has a System `System001` and Environment `Dev02` does not have that System, that would be outlined as a difference.
 
-### Small Coding Scripts
+## Small Coding Scripts
 
 These are scripts that all took less than 20 hours and were spent on my free time to automate something or make something easier at work.
  
@@ -53,20 +68,20 @@ These are scripts that all took less than 20 hours and were spent on my free tim
     - Wrote `Python` script to automate creating load weeks. This process is done usually once a year and takes about two hours manually.
     - Wrote `GO` script that detects a user's expected department. Their department is a field that is required when creating a user on the proprietary SCM software. The manual way to do this is absolutely disgusting so I wrote a script to do it.
 
-### Markdown Documentation Collection
+## Markdown Documentation Collection
 
 I created a repository full of markdown files to organize documentation for everything involving our team. Covers everything from how to do almost every single support task we do, to how to get a linux server at our company and complete the proper RBAC forms.
 
 - Files contain **27,519** words in total
 - Files contain **5,906** lines
 
-### Video Tutorials
+## Video Tutorials
 
 Created video tutorials demonstrating examples of how to complete various tasks. Examples are primarily SCM migrations.
 
 - Over two hours of filmed tutorials.
 
-### Professional Development and Leadership
+## Professional Development and Leadership
 
 - Intern Site Coordinator (Summer 2024)
 - Peer Mentored for Steup-Up bootcamp (August 2023 and March 2024)

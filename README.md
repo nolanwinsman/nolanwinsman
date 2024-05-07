@@ -18,11 +18,11 @@
   <img align="center" width="400" height="310" src="https://wakatime.com/share/@nolanwinsman/25e8b713-fd07-450d-953b-ea691391556a.svg" />
 </a></p>
 
-### Work Projects
+### Work Projects Overview
 
-Since I can't share any of the code I have written for my various jobs over the years, this document is full of detailed descriptions of what I have accomplished.
+This document provides detailed descriptions of my professional achievements and contributions across various roles and projects throughout my career.
 
-[Work Code](docs/work_experience.md)
+[Explore Detailed Work Experience](docs/work_experience.md)
 
 ### 👷 Check out what I'm currently working on
 - [Gamecube Swiss Updater](https://github.com/nolanwinsman/gc_swiss_updater) - A script to update Swiss files for Swiss Gamecube Drive.
