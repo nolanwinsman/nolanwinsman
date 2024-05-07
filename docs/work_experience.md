@@ -20,6 +20,8 @@ These are larger scale projects I did for my team.
 
 The UAR Station is a critical full-stack web application designed to facilitate user access review processes within our organization. This project streamlines the collection of attestations from managers regarding the necessity of software access for their employees.
 
+<img src="images/uar_frontend_example_2024.png" width="600">
+
 #### Technical Components
 - **Database Design**
     - Utilized GO scripts to gather user data from relevant applications and transform it into a third normal form (3NF) database structure using PostgreSQL. This database structure optimizes data integrity and reduces redundancy, ensuring efficient data management.
