@@ -18,6 +18,10 @@
   <img align="center" width="400" height="310" src="https://wakatime.com/share/@nolanwinsman/25e8b713-fd07-450d-953b-ea691391556a.svg" />
 </a></p>
 
+### Resume
+
+[View Nolan's Resume](docs/resume.md)
+
 ### Work Projects Overview
 
 This document provides detailed descriptions of my professional achievements and contributions across various roles and projects throughout my career.
