@@ -59,8 +59,8 @@ Lately, I've been diving headfirst into becoming the chosen one of Neovim and Vi
 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-linux-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-4-pack-logos-icons-2944967.png"/>
 <img align="left" alt="Neovim" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg"/>
-<img align="left" alt="Workato" width="30px" style="padding-right:10px;" src="https://cdn.brandfetch.io/idZUzx0-ld/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B"/>
-<img align="left" alt="ServiceNow" width="30px" style="padding-right:10px;" src="https://cdn.brandfetch.io/idgONjBNKe/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B"/>
+<img align="left" alt="Workato" width="30px" style="padding-right:10px;" src="https://cdn.brandfetch.io/idZUzx0-ld/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B"/>
+<img align="left" alt="ServiceNow" width="30px" style="padding-right:10px;" src="https://cdn.brandfetch.io/idn6njzi5Z/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B"/>
 <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg"/>
 <img align="left" alt="Git/GitHub" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331724/github-code-source.svg"/>
 <br/><br/>
