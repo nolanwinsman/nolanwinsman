@@ -78,7 +78,7 @@ This document provides detailed descriptions of my professional achievements and
 - [bulk_renamer](https://github.com/nolanwinsman/bulk_renamer) - A tool designed to rename many files as fast as possible using only the CLI
 - [Gamecube Swiss Updater](https://github.com/nolanwinsman/gc_swiss_updater) - A script to update Swiss files for Swiss Gamecube Drive.
 - [Two Face File Rename](https://github.com/nolanwinsman/two-face-file-renamer) - Honestly in retrospective, I think hardlinks just solve what this script accomplishes. Still a neat script that uses hash values of files to store two different filenames for one file.
-- [ArchNolan](https://github.com/nolanwinsman/ArchNolan) - Shell script to configure a fresh install of Manjaro Linux to my exact specifications
+- [Dragon Ball FighterZ Zeni Script](https://github.com/nolanwinsman/Dragon-Ball-FighterZ-Zeni-Script) - This code is stupid simple so not impressive. The reason I put this here is because it showcases my thourough documentation for all code I write.
 
 ### 📫 How to reach me:
 
