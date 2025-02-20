@@ -23,8 +23,6 @@ Lately, I've been diving headfirst into becoming the chosen one of Neovim and Vi
 </a></p>
 -->
 
-![Nolan Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nolanwinsman&layout=compact)
-
 [![wakatime](https://wakatime.com/badge/user/c1e9acdf-c5d7-4b21-8793-88704324942d.svg)](https://wakatime.com/@c1e9acdf-c5d7-4b21-8793-88704324942d)
 ![](https://komarev.com/ghpvc/?username=nolanwinsman)
 
@@ -76,6 +74,10 @@ Lately, I've been diving headfirst into becoming the chosen one of Neovim and Vi
 <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg"/>
 <img align="left" alt="Git/GitHub" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331724/github-code-source.svg"/>
 <br/><br/>
+
+<!-- Most used Langauges in Repos -->
+
+![Nolan Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nolanwinsman&layout=compact)
 
 ### Work Projects Overview
 
