@@ -25,7 +25,11 @@
 
 <code style="color : Yellow"> Languages:</code>
 
-<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/go-8.svg"/>
+<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353795/go.svg"/>
+<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Go_gopher_favicon.svg"/> 
+<!-- Gopher
+<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Go_gopher_favicon.svg"/> 
+-->
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226051.png?f=webp&w=256"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/184143/java.svg"/>
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/> 
@@ -45,8 +49,8 @@
 <code style="color : Yellow"> Tools:</code>
 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-linux-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-4-pack-logos-icons-2944967.png"/>
+<img align="left" alt="Neovim" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg"/>
 <img align="left" alt="Git/GitHub" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331724/github-code-source.svg"/>
-<img align="left" alt="Neovim" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/neovim.svg"/>
 <br/><br/>
 
 ### Work Projects Overview
