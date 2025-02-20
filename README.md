@@ -47,7 +47,7 @@ Lately, I've been diving headfirst into becoming the chosen one of Neovim and Vi
 <img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"/>
 <br/><br/>
 
-<code style="color : Yellow"> Front End / Back End:</code>
+<code style="color : Yellow"> Front End / Back End / Database:</code>
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175208.png"/>
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/>
