@@ -5,6 +5,12 @@
 Honestly, I just want to build cool stuff—automating everything I do on computers and at work, one script at a time. I hate frontend development but love backend, database, and crafting scripts and CLI tools to streamline my workflow.
 Lately, I've been diving headfirst into becoming the chosen one of Neovim and Vim motions. One day, I'll program so fast in Neovim that my fingers will immolate and my keyboard will melt.
 
+[![wakatime](https://wakatime.com/badge/user/c1e9acdf-c5d7-4b21-8793-88704324942d.svg)](https://wakatime.com/@c1e9acdf-c5d7-4b21-8793-88704324942d)
+![](https://komarev.com/ghpvc/?username=nolanwinsman)
+
+[comment]: <> (Background Color #2b213a)
+[comment]: <> (Foreground Color #e5289e)
+
 <!-- Youtube and Github Stats and Links -->
    <p align="left">
       <a href="https://www.youtube.com/@NolanWinsman?sub_confirmation=1">
@@ -22,13 +28,6 @@ Lately, I've been diving headfirst into becoming the chosen one of Neovim and Vi
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nolanwinsman&show_icons=true&theme=synthwave" />
 </a></p>
 -->
-
-[![wakatime](https://wakatime.com/badge/user/c1e9acdf-c5d7-4b21-8793-88704324942d.svg)](https://wakatime.com/@c1e9acdf-c5d7-4b21-8793-88704324942d)
-![](https://komarev.com/ghpvc/?username=nolanwinsman)
-
-[comment]: <> (Background Color #2b213a)
-[comment]: <> (Foreground Color #e5289e)
-
 <details>
   <summary>Wakatime Stats That show my Commitment to Neovim and Documentation (Click to Expand)</summary>
   <p align="center">
