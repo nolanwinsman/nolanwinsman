@@ -20,19 +20,15 @@ Lately, I've been diving headfirst into becoming the chosen one of Neovim and Vi
 [comment]: <> (Foreground Color #e5289e)
 
 <details>
-  <summary>Wakatime Stats (Click to Expand)</summary>
-  
+  <summary>Wakatime Stats That show my Commitment to Neovim and Documentation (Click to Expand)</summary>
   <p align="center">
     <a href="https://wakatime.com/@nolanwinsman">
       <img align="center" width="400" height="310" src="https://wakatime.com/share/@nolanwinsman/0f2483f5-1b52-45f6-b891-8de2f3b0ff2e.svg" />
     </a>
-
     <a href="https://wakatime.com/@nolanwinsman">
       <img align="center" width="400" height="310" src="https://wakatime.com/share/@nolanwinsman/25e8b713-fd07-450d-953b-ea691391556a.svg" />
     </a>
-
   </p>
-
 </details>
 
 ## Skills
@@ -63,8 +59,8 @@ Lately, I've been diving headfirst into becoming the chosen one of Neovim and Vi
 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-linux-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-4-pack-logos-icons-2944967.png"/>
 <img align="left" alt="Neovim" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg"/>
-<img align="left" alt="Workato" width="30px" style="padding-right:10px;" src="https://public-workato-files.s3.us-east-2.amazonaws.com/Uploads/workato-logo-1.png"/>
-<img align="left" alt="ServiceNow" width="30px" style="padding-right:10px;" src="C:\Users\nolan\AppData\Local\Temp\ServiceNow-Logo.png"/>
+<img align="left" alt="Workato" width="30px" style="padding-right:10px;" src="https://cdn.brandfetch.io/idZUzx0-ld/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B"/>
+<img align="left" alt="ServiceNow" width="30px" style="padding-right:10px;" src="https://cdn.brandfetch.io/idgONjBNKe/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B"/>
 <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg"/>
 <img align="left" alt="Git/GitHub" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331724/github-code-source.svg"/>
 <br/><br/>
