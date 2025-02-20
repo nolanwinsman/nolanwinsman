@@ -90,6 +90,8 @@ This document provides detailed descriptions of my professional achievements and
 
 - [Undergrad Job Hunt Handbook](https://github.com/nolanwinsman/UndergradJobHuntHandbook) - A document on everything I learned about finding a job in tech as a developer.
 - [ezarr fork](https://github.com/nolanwinsman/ezarr) - Fork of ezarr that modifies the script to work for my my exact use case in my media server. Includes many small modifications and some extra docker containers
+- [Neovim Config](https://github.com/nolanwinsman/neovim-config) - Configuration for Nvim. Includes LSP, Auto Formatting, Fuzzy Finder, Oil File Management, Treesitter, Harpoon for the coolest way to bounce between files in existence and more. This config was a massive
+  pain to write so please be impressed.
 - [bulk_renamer](https://github.com/nolanwinsman/bulk_renamer) - A tool designed to rename many files as fast as possible using only the CLI
 - [Gamecube Swiss Updater](https://github.com/nolanwinsman/gc_swiss_updater) - A script to update Swiss files for Swiss Gamecube Drive.
 - [Two Face File Rename](https://github.com/nolanwinsman/two-face-file-renamer) - Honestly in retrospective, I think hardlinks just solve what this script accomplishes. Still a neat script that uses hash values of files to store two different filenames for one file.
