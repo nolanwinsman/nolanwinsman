@@ -1,5 +1,10 @@
 # Nolan Winsman
 
+<code style="color : pink"> Automation Fanatic </code>
+
+Honestly, I just want to build cool stuff—automating everything I do on computers and at work, one script at a time. I hate frontend development but love backend, database, and crafting scripts and CLI tools to streamline my workflow.
+Lately, I've been diving headfirst into becoming the chosen one of Neovim and Vim motions. One day, I'll program so fast in Neovim that my fingers will immolate and my keyboard will melt.
+
 <!-- Commented out Github Stats
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nolanwinsman&show_icons=true&theme=synthwave" />
@@ -14,21 +19,25 @@
 [comment]: <> (Background Color #2b213a)
 [comment]: <> (Foreground Color #e5289e)
 
+<!-- Wakatime Languages Used -->
 <p align="center"><a href="https://wakatime.com/@nolanwinsman">
-  <img align="center" width="400" height="310" src="https://wakatime.com/share/@nolanwinsman/0f2483f5-1b52-45f6-b891-8de2f3b0ff2e.svg" />
+  <img align="center" width="600" height="350" src="https://wakatime.com/share/@nolanwinsman/0f2483f5-1b52-45f6-b891-8de2f3b0ff2e.svg" />
 </a>
+
+<!-- Wakatime Editors Used
 <a href="https://wakatime.com/@nolanwinsman">
   <img align="center" width="400" height="310" src="https://wakatime.com/share/@nolanwinsman/25e8b713-fd07-450d-953b-ea691391556a.svg" />
 </a></p>
+
+-->
 
 ## Skills
 
 <code style="color : Yellow"> Languages:</code>
 
+<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Go_gopher_favicon.svg"/> 
+<!-- Normal Go logo
 <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353795/go.svg"/>
-<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Go_gopher_favicon.svg"/> 
-<!-- Gopher
-<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Go_gopher_favicon.svg"/> 
 -->
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226051.png?f=webp&w=256"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/184143/java.svg"/>
@@ -50,6 +59,9 @@
 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-linux-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-4-pack-logos-icons-2944967.png"/>
 <img align="left" alt="Neovim" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg"/>
+<img align="left" alt="Workato" width="30px" style="padding-right:10px;" src="https://assets-global.website-files.com/61dc0796b38f74dbecea2018/61f25fd1aaee164cad05ea43_workato-icon-color.svg"/>
+<img align="left" alt="ServiceNow" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/32/ServiceNow_logo.svg"/>
+<img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/4/44/Jira_logo.svg"/>
 <img align="left" alt="Git/GitHub" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331724/github-code-source.svg"/>
 <br/><br/>
 
