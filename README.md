@@ -29,7 +29,7 @@ Lately, I've been diving headfirst into becoming the chosen one of Neovim and Vi
 </a></p>
 -->
 <details>
-  <summary>Wakatime Stats That show my Commitment to Neovim and Documentation (Click to Expand)</summary>
+  <summary>Wakatime Stats (Click to Expand)</summary>
   <p align="center">
     <a href="https://wakatime.com/@nolanwinsman">
       <img align="center" width="400" height="310" src="https://wakatime.com/share/@nolanwinsman/0f2483f5-1b52-45f6-b891-8de2f3b0ff2e.svg" />
