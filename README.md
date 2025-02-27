@@ -50,7 +50,7 @@ Lately, I've been diving headfirst into becoming the chosen one of Neovim and Vi
 -->
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226051.png?f=webp&w=256"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/184143/java.svg"/>
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/> 
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/640px-C_Programming_Language.svg.png"/> 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/> 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"/>
 <img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"/>
